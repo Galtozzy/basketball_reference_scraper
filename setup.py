@@ -24,9 +24,9 @@ setuptools.setup(
     install_requires=[
         'beautifulsoup4==4.8.2',
         'bs4==0.0.1',
-        'lxml==4.4.2',
+        'lxml==4.5.2',
         'numpy==1.18.1',
-        'pandas==0.25.3',
+        'pandas==1.2.0',
         'python-dateutil==2.8.1',
         'pytz==2019.3',
         'requests==2.22.0',
