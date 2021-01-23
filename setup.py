@@ -25,7 +25,7 @@ setuptools.setup(
         'beautifulsoup4==4.8.2',
         'bs4==0.0.1',
         'lxml==4.5.2',
-        'numpy==1.18.1',
+        'numpy==1.19.2',
         'pandas==1.2.0',
         'python-dateutil==2.8.1',
         'pytz==2019.3',
