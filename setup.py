@@ -30,7 +30,7 @@ setuptools.setup(
         'python-dateutil==2.8.1',
         'pytz==2019.3',
         'requests==2.22.0',
-        'six==1.13.0',
+        'six==1.15.0',
         'soupsieve==1.9.5'
     ],
     extras_require={
